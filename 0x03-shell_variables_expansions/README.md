@@ -4,8 +4,8 @@ Task 2 - Add /action to the path
 Task 3 - Count the number of directories in the PATH
 Task 4 - List environment variables
 Task 5 - List all local variables and environment variables and functions
-Task 6 - Create a new local variable "BETTY" with value "Holberton"
-Task 7 - Create a new global variable "HOLBERTON" with value "Betty"
+Task 6 - Create a new local variable "BEST" with value "School"
+Task 7 - Create a new global variable "School" with value "BEST"
 Task 8 - Add 128 with the value stored in the ev TRUEKNOWLEDGE
 Task 9 - Divide PWER by DIVIDE
 Task 10 - Display BREATH to the power LOVE
