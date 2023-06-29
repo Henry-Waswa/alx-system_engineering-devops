@@ -227,7 +227,7 @@ when you generate an rsa key two files are generated: "id_rsa",  "id_rsa.pub":
 *    "id_rsa.pub" is the public key, It is the one that we are going to use at point 0 of the project, we must change its name.
 *    "id_rsa": It is the private key and it is the one that must be kept in a confident place
 
-### [1. For Holberton School loop](./1-for_holberton_school)
+### [1. For Best School loop](./1-for_holberton_school)
 * Write a Bash script that displays Holberton School 10 times.
 
 *    You must use the for loop (while and until are forbidden)
@@ -237,12 +237,12 @@ Note that:
 *    The first line of my Bash script starts with #!/usr/bin/env bash (To be portable).
 *    The second line of my Bash scripts is a comment explaining what it is doing.
 
-### [2. While Holberton School loop](./2-while_holberton_school)
+### [2. While Best School loop](./2-while_holberton_school)
 * Write a Bash script that displays Holberton School 10 times.
 
 * You must use the while loop (for and until are forbidden)
 
-### [3. Until Holberton School loop](./3-until_holberton_school)
+### [3. Until Best School loop](./3-until_holberton_school)
 * Write a Bash script that displays Holberton School 10 times.
 
 * You must use the until loop (for and while are forbidden)
