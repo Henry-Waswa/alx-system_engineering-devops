@@ -228,7 +228,7 @@ when you generate an rsa key two files are generated: "id_rsa",  "id_rsa.pub":
 *    "id_rsa": It is the private key and it is the one that must be kept in a confident place
 
 ### [1. For Best School loop](./1-for_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* Write a Bash script that displays Best School 10 times.
 
 *    You must use the for loop (while and until are forbidden)
 
@@ -238,17 +238,17 @@ Note that:
 *    The second line of my Bash scripts is a comment explaining what it is doing.
 
 ### [2. While Best School loop](./2-while_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* Write a Bash script that displays Best School 10 times.
 
 * You must use the while loop (for and until are forbidden)
 
 ### [3. Until Best School loop](./3-until_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* Write a Bash script that displays Best School 10 times.
 
 * You must use the until loop (for and while are forbidden)
 
 ### [4. If 9, say Hi!](./4-if_9_say_hi)
-* Write a Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
+* Write a Bash script that displays Best School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
 
 *    You must use the while loop (for and until are forbidden)
 *    You must use the if statement
@@ -311,18 +311,18 @@ Note that in this example, we only display the first 70 lines using the head com
 *    Do not display hidden files
 
 ### [9. To file, or not to file](./9-to_file_or_not_to_file)
-* Write a Bash script that gives you information about the holbertonschool file.
+* Write a Bash script that gives you information about the school file.
 
 **Requirements:**
 
 *    You must use if and, else (case is forbidden)
 *    Your Bash script should check if the file exists and print:
-*        if the file exists: holbertonschool file exists
-*        if the file does not exist: holbertonschool file does not exist
+*        if the file exists: school file exists
+*        if the file does not exist: school file does not exist
 *    If the file exists, print:
-*        if the file is empty: holbertonschool file is empty
-*        if the file is not empty: holbertonschool file is not empty
-*        if the file is a regular file: holbertonschool is a regular file
+*        if the file is empty: school file is empty
+*        if the file is not empty: school  file is not empty
+*        if the file is a regular file: school is a regular file
 *        if the file is not a regular file: (nothing)
 
 ### [10. FizzBuzz](./10-fizzbuzz)
@@ -399,3 +399,8 @@ Requirement:
 *        See example
 *    You must use awk
 *    You are not allowed to use while, for, until and cut
+
+---
+
+## Author
+* **Henry W. Waswa** - [Henry-Waswa](https://github.com/Henry-Waswa)
